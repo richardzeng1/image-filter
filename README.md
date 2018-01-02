@@ -47,3 +47,21 @@ Note: Some code was starter code written by the staff of the University of Toron
 
 ### **Usage**
 
+#### Copy
+$./copy < image_name > new_image_name
+
+#### Greyscale
+$./greyscale < image_name > new_image_name
+
+#### Gaussian Blur
+$./gaussian_blur < image_name > new_image_name
+
+#### Edge Detection
+$./edge_detection < image_name > new_image_name
+
+#### Scale
+$./scale <scale_factor> < image_name > new_image_name
+
+#### Image Filter
+$./iamge_filter <image name> <new file name> [filter]...
+ 
